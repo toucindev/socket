@@ -1,6 +1,6 @@
 import { MongoClient } from 'mongodb';
 
-const client = new MongoClient('mongodb+srv://adm:123@socket.t3mzyqg.mongodb.net/?retryWrites=true&w=majority&appName=Socket');
+const client = new MongoClient('');
 
 let documents;
 
